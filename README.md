@@ -3,12 +3,12 @@
 This task focuses on cleaning a netflix dataset using Excel.
 
 ## Files
--Raw_Data.xlsx
--Cleaned_dataset.xlsx
--cleaned_dataset.csv
+- Raw_Data.xlsx
+- Cleaned_dataset.xlsx
+- cleaned_dataset.csv
 
 ## Tasks performed
--Removed duplicates
--Handled missing values
--Standardized text
--Fixed date formats
+- Removed duplicates
+- Handled missing values
+- Standardized text
+- Fixed date formats
